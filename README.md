@@ -6,11 +6,10 @@ I'm a dynamic developer based in Tula (Russia) / Vung Tau (Vietnam). I enjoy cre
 
 Feel free to reach out to me through various channels:
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:your.email@gmail.com)
-[![Zalo Badge](https://img.shields.io/badge/Zalo-0068FF?logo=zalo&logoColor=fff&style=for-the-badge)](https://zalo.me/yourusername)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/yourusername)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/yourusername/)
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-0A0A0A?logo=dev.to&logoColor=fff&style=for-the-badge)](https://yourportfolio.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:burdanovaas@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/AnnaBurdanova)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/annaburd/)
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-0A0A0A?logo=dev.to&logoColor=fff&style=for-the-badge)](https://annaburd.me/)
 
 ## Technologies I Work With
 
@@ -46,6 +45,10 @@ I'm always expanding my skill set. Currently, I'm delving into:
 3. [**Web Portfolio**](https://github.com/AnnaBurd/web-portfolio) - A website-portfolio for a beginner developer/freelancer.
 
 4. [**Dogville**](https://github.com/AnnaBurd/dogville) - A project for fun - a game in pixel style for the Android devices.
+
+## GitHub Stats
+
+Here's a snapshot of my GitHub activity:
 
 <picture>
   <source
