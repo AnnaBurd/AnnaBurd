@@ -1,6 +1,9 @@
 # Hey, I'm Anna 👋
 
-I'm a dynamic developer based in Tula (Russia) / Vung Tau (Vietnam). I enjoy creating software solutions that make a positive impact, and I cherish the time spent with my family.
+I discovered a love for programming four years ago when I stumbled upon a book about VBA for
+Excel and started using macros to automate my daily geology tasks. I love geology, and although
+it pays well, I had much more fun writing code. Now, with a CS degree and several big projects
+under my belt, I am making a full-time switch to front-end web development.
 
 ## Get In Touch
 
